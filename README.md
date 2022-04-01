@@ -19,9 +19,9 @@ You can change the settings - in settings.json:
 }
 ```
 
-### CRUD - Read/search
+### CRUD - Read/search    
 
-#### GET /api/db-info
+#### GET /api/db-info  
 Returns a list of all tables and views in the database in JSON format.
 
 ##### Example result: 
