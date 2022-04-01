@@ -105,4 +105,4 @@ Works exactly the same way as **PATCH /api/:tableName/:id**.
 ### CRUD - Delete a post
 
 #### DELETE /api/:tableName/:id
-Deletes a post with the specified id.
+Deletes a post with the specified id.                 
